@@ -1,0 +1,2 @@
+this is a c.txt files
+Git入门练习
